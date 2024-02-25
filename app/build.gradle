@@ -19,5 +19,5 @@ shadowJar {
 }
 
 application {
-    mainClass = 'com.nio.TcpDataFlowExample'
+    mainClass = 'com.nio.fix.TestFlowChanged'
 }
